@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["fkagami"]
   spec.email         = ["kagami1990@gmail.com"]
 
-  spec.summary       = %q{Hanabira will convert Japanese immodest words into literary words}
-  spec.description   = %q{Hanabira will convert Japanese immodest words into literary word by only use hanabira method}
+  spec.summary       = %q{Hanabira will convert Japanese immodest words into modest words}
+  spec.description   = %q{Hanabira will convert Japanese immodest words into modest word by only use hanabira method}
   spec.homepage      = ""
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
