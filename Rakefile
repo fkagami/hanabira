@@ -3,6 +3,7 @@ require "rspec/core/rake_task"
 
 RSpec::Core::RakeTask.new(:spec)
 
+=begin
 task :default => :spec
 begin
   require 'rspec/core/rake_task'
@@ -12,3 +13,4 @@ begin
   end
 rescue LoadError => e
 end
+=end
